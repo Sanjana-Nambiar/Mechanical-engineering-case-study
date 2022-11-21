@@ -12,30 +12,30 @@ Flight simulation is used for a variety of reasons, including flight training (m
 ### Input/output Description:
 #### The inputs are:
 - The “simulationConfiguration.txt” that contains all the data, i.e.;
-- Average Wind Speed
-- Gust Value
-- Simulation Duration
-- Step Size
-- Storm Probability
-- Min and Max Storm Amplitude
-- Min and Max Storm Duration
-- Microburst Probability
-- Min and Max Microburst Amplitude
-- Min and Max Microburst Duration
+  - Average Wind Speed
+  - Gust Value
+  - Simulation Duration
+  - Step Size
+  - Storm Probability
+  - Min and Max Storm Amplitude
+  - Min and Max Storm Duration
+  - Microburst Probability
+  - Min and Max Microburst Amplitude
+  - Min and Max Microburst Duration
 
 #### The outputs are:
 - WindSpeedData.txt
-- Time
-- Wind Speed 
+  - Time
+  - Wind Speed 
 - StormData.txt
-- Time
-- Storm Magnitude
+  - Time
+  - Storm Magnitude
 - Storm Probability
 - BurstData.txt 
-- Time
-- Microburst Magnitude
-- Microburst Probability 
+  - Time
+  - Microburst Magnitude
+  - Microburst Probability 
 - WindSimulation.txt
-- Time
-- Wind Simulation
-- Binary Value
+  - Time
+  - Wind Simulation
+  - Binary Value
